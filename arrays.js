@@ -16,6 +16,7 @@ function destructivelyAddElementToEndOfArray(a,b) {
 function accessElementInArray(a, index) {
   return a[index]
 }
+<<<<<<< HEAD
 function removeElementFromBeginningOfArray(array){
   return array.slice(1)
 }
@@ -30,6 +31,14 @@ function destructivelyRemoveElementFromEndOfArray(a) {
 function removeElementFromEndOfArray(array) {
   return array.slice(0, array.length - 1)
 }
+=======
+function destructivelyAddElementToEndOfArray (a) {
+  
+
+
+
+  
+>>>>>>> 042a592ce2d114b60a93d17229b269d46f0e4e4e
 
   
 
